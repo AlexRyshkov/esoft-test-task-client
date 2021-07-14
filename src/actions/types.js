@@ -1,0 +1,18 @@
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+
+export const SET_AUTH_MESSAGE = "SET_AUTH_MESSAGE";
+export const CLEAR_AUTH_MESSAGE = "CLEAR_AUTH_MESSAGE";
+
+export const SET_TODO = "SET_TODO";
+export const CLEAR_TODO = "CLEAR_TODO";
+
+export const SET_TODO_FILTER = "SET_TODO_FILTER";
+export const CLEAR_TODO_FILTER = "CLEAR_TODO_FILTER";
+
+export const SET_EDITED_TODO = "SET_EDITED_TODO";
+export const CLEAR_EDITED_TODO = "CLEAR_EDITED_TODO";
+
+export const SET_TODO_MESSAGE = "SET_TODO_MESSAGE";
+export const CLEAR_TODO_MESSAGE = "CLEAR_TODO_MESSAGE";
